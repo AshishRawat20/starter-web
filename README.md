@@ -8,7 +8,7 @@ This is the part where the introduction will be
 This states the purpose of the project
 
 ## How To Contribute
-
+Please fork this repo and issue pull request for review
 
 ### Copyright
 
