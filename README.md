@@ -1,7 +1,7 @@
-#Starter Web Project
+# Starter Web Project
 
-##Introdcution
+## Introdcution
 
-##Purpose
+## Purpose
 
-##How To Contribute
+## How To Contribute
